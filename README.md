@@ -2,7 +2,7 @@
 
 Desafio proposto no Bootcamp de Front-End do IGTI para cria um jogo da velha utilizando o Angular como framework.
 
-**Tecnologias utilizadas**
+# Tecnologias utilizadas
 
 <ul>
 <li>HTML5</li>
