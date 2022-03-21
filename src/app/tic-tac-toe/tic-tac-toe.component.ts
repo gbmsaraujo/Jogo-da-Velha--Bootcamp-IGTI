@@ -41,6 +41,7 @@ export class TicTacToeComponent {
       ['', '', ''],
       ['', '', ''],
     ];
+    this.result = ''
   }
 
   checkWinner(player: string): boolean {
