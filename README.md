@@ -4,7 +4,11 @@ Desafio proposto no Bootcamp de Front-End do IGTI para cria um jogo da velha uti
 
 **Tecnologias utilizadas**
 
-<ul><li>HTML5</li></ul>
-<ul><li>CSS3</li></ul>
-<ul><li>Angular</li></ul>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Angular</li>
+<li>TypeScript</li>
+</ul>
+
 
